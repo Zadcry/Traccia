@@ -4,7 +4,7 @@ function verificarCodigo() {
             
             if (codigoIngresado === codigoCorrecto) {
                 // Cambia la URL a la que quieres redirigir
-                window.location.href = "https://it.wikipedia.org/wiki/Unità_a_nastro_magnetico";
+                window.location.href = "https://it.wikipedia.org/wiki/Traccia";
             } else {
                 alert("Código incorrecto. Inténtalo de nuevo.");
             }
